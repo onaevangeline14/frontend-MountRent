@@ -12,6 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage : {
+        "login" : "url('/Background G.png')",
+        "gunung" :" url('/Background G.png')"
+      }
+     
     },
   },
   plugins: [],
